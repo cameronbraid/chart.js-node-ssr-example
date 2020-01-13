@@ -17,9 +17,22 @@ $ cd chart.js-node-ssr-example
 $ rm -rf ./.git
 
 $ npm install
+$ npm run run
+```
+
+## Get started - use webpack to transpile
+
+```bash
+$ git clone https://github.com/shellyln/chart.js-node-ssr-example.git
+$ cd chart.js-node-ssr-example
+$ rm -rf ./.git
+
+$ npm install
 $ npm run build
 $ npm start
 ```
+
+
 
 
 ## Example
